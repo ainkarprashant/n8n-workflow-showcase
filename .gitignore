@@ -1,0 +1,4 @@
+.env
+.n8n/
+.DS_Store
+node_modules/
